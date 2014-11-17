@@ -1,8 +1,8 @@
-*This is test file
+# This is test file
 
-*bold* = *in dam*
+**bold** = **in dam**
 _italic_ = _in nghieng_
 
 ````Python
-`print hello;
+print hello;
 ````
